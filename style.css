@@ -1,0 +1,40 @@
+.nav-link:not(.nav-link-2){
+    color:  #010d4c !important;
+}
+
+.btn{
+    background-color: #ff7a41 !important;
+    color: white !important;
+    
+}
+.btn1{
+    background-color: #ec2016 !important;
+    border-radius: 5px;
+    color: white !important;
+}
+.btn2{
+    color: #ff7a41 !important;
+    background-color: white !important;
+   
+}
+
+.robust, .serve{
+    color: #010d4c;
+}
+.top, .our{
+    color: #ff7a41;
+}
+
+ .top-brand-section{
+    background-image: url(./asset/images/background6.jpg) !important;
+    background-repeat: no-repeat !important;
+    width: auto !important;
+ }
+
+ .sed-ut{
+    color: #000000;
+ }
+
+/* .serve{
+    font-size: larger !important;
+} */
