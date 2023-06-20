@@ -25,11 +25,17 @@ nav{
     width: 200px;
 }
 
-.robust, .serve, .craft{
+.robust, .serve, .craft, .an{
     color: #010d4c;
 }
-.top, .our, .max ,.seo{
-    color: #ff7a41;
+.top, .our, .max ,.seo, .why, .max-1{
+    color: #ff7a41 !important;
+}
+
+.max-1:hover{
+    background-color: #9D50FF!important;
+    outline: none !important;
+    /* border: none !important; */
 }
 
  .top-brand-section{
