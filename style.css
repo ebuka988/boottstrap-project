@@ -1,63 +1,92 @@
-.nav-link:not(.nav-link-2){
-    color:  #010d4c !important;
+.nav-link:not(.nav-link-2) {
+    color: #010d4c !important;
 }
 
-nav{ 
+nav {
     position: static !important;
 }
 
-.btn{
+.btn-nav {
     background-color: #ff7a41 !important;
     color: white !important;
-    
+
 }
-.btn1{
+
+.btn1 {
     background-color: #ec2016 !important;
     border-radius: 5px;
     color: white !important;
     padding: 15px !important;
     width: 200px;
 }
-.btn2{
+
+.btn2 {
     color: #ff7a41 !important;
     background-color: white !important;
-    padding: 20px !important;
+    padding: 10px !important;
     width: 200px;
+    border-radius: 5px;
 }
 
-.robust, .serve, .craft, .an{
+.b1-start{
+    background-color: #ec2016 !important;
+    color: white !important;
+}
+
+.b2-learn{
+    color: #ff7a41 !important;
+    background-color: white !important;
+}
+
+.b1a-start{
+    background-color: #ff7a41 !important;
+    color: white !important;
+}
+
+.robust,
+.serve,
+.craft,
+.an,
+.best {
     color: #010d4c;
 }
-.top, .our, .max ,.seo, .why, .max-1{
+
+.top,
+.our,
+.max,
+.seo,
+.why,
+.max-1,
+.price {
     color: #ff7a41 !important;
 }
 
-.max-1:hover{
-    background-color: #9D50FF!important;
+.max-1:hover {
+    background-color: #9D50FF !important;
     outline: none !important;
     /* border: none !important; */
 }
 
- .top-brand-section{
+.top-brand-section {
     background-image: url(./asset/images/background6.jpg) !important;
     background-repeat: no-repeat !important;
     width: auto !important;
- }
+}
 
- .sed-ut{
+.sed-ut {
     color: #000000;
- }
+}
 
 /* .serve{
     font-size: larger !important;
 } */
 
-.p-icon{
+.p-icon {
     width: 40px;
     color: #ff7a41 !important;
 }
 
-.pi-icon{
+.pi-icon {
     width: 35px;
     color: #ff7a41 !important;
 }
@@ -65,40 +94,40 @@ nav{
 /* .volu{
     background-color: rgba(216, 209, 209, 0.788) !important;
 } */
-.bg{
-background-color: rgb(111,66,193) !important;
-color: white !important;
+.bg {
+    background-color: rgb(111, 66, 193) !important;
+    color: white !important;
 }
 
-.write{
+.write {
     background-color: white !important;
 }
 
-.maxi-sec{
+.maxi-sec {
     background-image: url(./asset/images/background6.jpg) !important;
     background-repeat: no-repeat !important;
-   
+
 }
 
-.help-sec{
+.help-sec {
     background-color: #ff7a41 !important;
     color: white !important;
 }
 
-.sear-ch{
+/* .sear-ch {
     margin-bottom: 100px !important;
-}
+} */
 
-.track{
+.track {
     font-size: 100px !important;
     color: #010d4c !important;
 }
 
-.adi{
+.adi {
     color: #010d4cc7;
 }
 
-.btn3{
+.btn3 {
     background-color: #ff7a41 !important;
     border-radius: 5px;
     color: white !important;
@@ -106,12 +135,12 @@ color: white !important;
     width: 200px;
 }
 
-  /* :hover .btn3   {
+/* :hover .btn3   {
     background-color: #ec2016 !important;
     color: white !important;
 } */
 
-.btn4{
+.btn4 {
     background-color: white !important;
     color: #ff7a41 !important;
     padding: 15px !important;
@@ -119,17 +148,70 @@ color: white !important;
 }
 
 
-.ssg{
+.ssg {
     background-color: #ff7a41 !important;
     color: white !important;
     border-radius: 40px;
 }
 
-.num{
+.num {
     font-weight: bold;
 }
 
-.what{
+.what {
     background-color: #004ab8 !important;
     color: white;
 }
+
+.best-seo {
+    background-image: url(./asset/images/background6.jpg) !important;
+    background-repeat: no-repeat;
+}
+
+.btn5 {
+    background-color: #ff7a41 !important;
+    color: white !important;
+    padding: 15px !important;
+    width: 250px;
+    border-radius: 30px;
+}
+
+.b-choose {
+    background-color: #ec2016 !important;
+    color: white !important;
+    /* padding: 15px !important;
+    width: 250px;
+    border-radius: 30px; */
+}
+
+.b2-choose{
+    background-color: #ff7a41 !important;
+    color: white !important;
+}
+
+.stan{
+    color: #CECECE !important;
+}
+
+.stan-99 {
+    background-color: #ff7a41 !important;
+}
+
+
+.now{
+    background-color: #ff7a41 !important;
+    color: white;
+}
+
+.sub-crib{
+   
+    height: 15%;
+    width: !important;
+}
+
+
+.copy{
+    background-color: black !important ;
+    color: white !important;
+}
+
